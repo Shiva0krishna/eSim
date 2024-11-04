@@ -1,5 +1,12 @@
-entrypoints==0.3
-flake8==3.7.7
-mccabe==0.6.1
-pycodestyle==2.5.0
-pyflakes==2.1.1
+certifi==2024.8.30
+charset-normalizer==3.4.0
+click==8.1.7
+hdlparse @ https://github.com/hdl/pyhdlparser/tarball/master#sha256=8247407c002de915325fed7c97ae1b57eeb5b6c82e383dcaa21dda642c2e732a
+idna==3.10
+makerchip-app==1.1.5
+path==17.0.0
+requests==2.32.3
+sandpiper-saas==1.1.0
+sseclient-py==1.8.0
+urllib3==2.2.3
+watchdog==6.0.0
